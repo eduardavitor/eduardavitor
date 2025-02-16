@@ -1,4 +1,4 @@
-## Olá! Eu sou o Eduarda Vitor 🖐️
+## Olá! Eu sou a Eduarda Vitor 🖐️
 
 🚀 Estou focada em aprimorar meus conhecimentos em desenvolvimento web, estudando HTML, CSS e JavaScript. Além disso, possuo conhecimento em Python e busco oportunidades para aplicar minhas habilidades na área de tecnologia.
 
